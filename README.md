@@ -1,4 +1,4 @@
 # OwnBuildVUE
-VUE脚手架
-npm inatsll
+VUE脚手架<br>
+npm inatsll<br>
 npm start
